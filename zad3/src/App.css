@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+header {
+  text-align: center;
+  color: #4a4a4a;
+}
+form {
+  width: 170px;
+  margin: auto;
+}
+label {
+  margin-top: 5px;
+  font-weight: bold;
+  text-align: center;
+}
+input {
+  padding: 5px;
+  height: 25px;
+  margin: 10px 0px 8px 0px;
+}
+input[type=submit] {
+  background-color: #4a4a4a;
+  height: 80px;
+  width: 200px;
+  padding: 0px;
+  color: #ffffff;
+  font-size: 20px;
+  margin: 20px auto;
+}
